@@ -1,4 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Evilrabbit520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
+
+- 🔭 &emsp; I'm currently studying the underlying C++ content.
+- 📫 &emsp; How to contact me: <a href="mail:wangyujia@inidt.com"> wangyujia@inidt.com</a>
 
 <!--
 **Evilrabbit520/Evilrabbit520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

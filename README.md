@@ -4,6 +4,7 @@
 
 - 🔭 &emsp; I'm currently studying the underlying C++ content.
 - 📫 &emsp; How to contact me: <a href="mail:wangyujia@inidt.com"> wangyujia@inidt.com</a>
+- 🌕 &emsp; Visit my personal blog: <a href="http://blog.yujiay.wang"> blog.yujiay.wang</a>
 
 <!--
 **Evilrabbit520/Evilrabbit520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
